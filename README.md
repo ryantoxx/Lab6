@@ -17,6 +17,7 @@ Controller - the mediator between Model and View.
 - Liskov Substitution Principle.
 - Interface Segregation Principle.
 - Dependacy Inversion Principle.
+
 I tried as much as possible to implement the solid principles 
 into my simulation.I have already unconsciously used two principles
 the open-closed and liskov substitution.I removed when
